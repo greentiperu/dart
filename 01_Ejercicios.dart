@@ -11,5 +11,4 @@ como resultado debe mostrar: [Conejo, Gato, Tortuga, Perro]
 5.- Crear una función y como parámetro me permita recibir una lista de String (pintar los valores)
 6.- Crear una función con argumentos con Nombre, como parámetros reciba una lista de String y otra lista de Enteros (pintar los valores)
 7.- Crear una función que me retorne una Lista de String
-8.- Crear una clase con 3 propiedades y mencionarlos en su constructor
  */
